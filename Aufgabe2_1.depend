@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1525433761 source:c:\users\manuelfaatz\documents\thk\pi2\praktikum\aufgabe2_1\main.cpp
+	<iostream>
+	"Auto.h"
+	<string.h>
+
+1525435116 c:\users\manuelfaatz\documents\thk\pi2\praktikum\aufgabe2_1\include\auto.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1525433493 source:c:\users\manuelfaatz\documents\thk\pi2\praktikum\aufgabe2_1\src\auto.cpp
+	"Auto.h"
+
